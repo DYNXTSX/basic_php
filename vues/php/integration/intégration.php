@@ -1,0 +1,1 @@
+<p>ceci est une intégration</p>
